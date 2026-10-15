@@ -9,3 +9,11 @@ This repository serves as a record of my practice, learning, and progress as I w
 ---
 
 *Learning consistently. Improving with every problem.*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/NitinSaraswat2811/leetcode-sql-solutions/tree/master/0175-combine-two-tables) |
+<!---LeetCode Topics End-->
